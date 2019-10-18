@@ -29,9 +29,9 @@ h1, h2, h3, h4 {
 /*FIRST PAGE*/
 
 .header {
-    /*min-height: 100vh;*/
+    min-height: 100vh;
     min-width: 320px;
-    background: url("../../New_LP/images/BG.png") no-repeat center/cover;
+    background: url("../../figma_landing/images/BG-min.jpg") no-repeat center/cover;
 }
 .header__inner {
     display: flex;
