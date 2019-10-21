@@ -36,4 +36,8 @@
     .nav-top {
         display: none;
     }
+    .header__title {
+        font-size: 14px;
+        line-height: 18px;
+    }
 }
